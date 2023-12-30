@@ -18,7 +18,7 @@ A clone of the social network Twitter, using React and Vite concepts for initial
 
 ## 📞 Contact
 - freitasfabiano08@gmail.com
-- @fabinhofreitastw
+- @ffabiiin
 
 ## ⚙️ How To Install?
 - Clone the repository
